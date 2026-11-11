@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: ko-KR
-  baseUrl: minsu-wiki.pages.dev
+  baseUrl: minsu-wiki-5up.pages.dev
   ignorePatterns:
     - private
     - templates
